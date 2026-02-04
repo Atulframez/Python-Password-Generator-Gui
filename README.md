@@ -1,11 +1,11 @@
-# 🔐 Tkinter Password Generator (Python)
+#  Tkinter Password Generator (Python)
 
 A **GUI-based Password Generator** built using **Python and Tkinter**.  
 This application generates **strong, random passwords** containing letters, numbers, and special characters with a single click.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Generate strong random passwords
 - Includes:
@@ -18,7 +18,7 @@ This application generates **strong, random passwords** containing letters, numb
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - Python 3.10+
 - Tkinter
@@ -27,9 +27,9 @@ This application generates **strong, random passwords** containing letters, numb
 
 ---
 
-## 📦 Installation
+##  Installation
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 
 git clone https://github.com/your-username/tkinter-password-generator.git
 cd tkinter-password-generator
@@ -41,7 +41,7 @@ python main.py
 
 Tkinter comes pre-installed with Python.
 
-▶️ Usage
+## Usage
 
 Launch the application
 
@@ -51,7 +51,7 @@ A 28-character strong password will appear in the input field
 
 Copy and use the password anywhere
 
-📂 Project Structure
+## Project Structure
 tkinter-password-generator/
 │
 ├── main.py
@@ -61,7 +61,7 @@ tkinter-password-generator/
 ├── logo.ico
 └── README.md
 
-🎯 Learning Outcomes
+## Learning Outcomes
 
 Tkinter GUI development
 
@@ -71,7 +71,7 @@ Event-driven programming
 
 Desktop application basics
 
-🔮 Future Enhancements
+## Future Enhancements
 
 Password length selector
 
@@ -83,17 +83,17 @@ Dark / Light mode
 
 Save password history
 
-⚠️ Disclaimer
+## Disclaimer
 
 Use generated passwords responsibly and store them securely.
 This project is intended for educational and personal use.
 
-👨‍💻 Author
+##  Author
 
 Atul Anand
 BCA (Hons)
 Amity University, Noida
 
-⭐ Support
+##  Support
 
 If you like this project, don’t forget to star ⭐ the repository!
